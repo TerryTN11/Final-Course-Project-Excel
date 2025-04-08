@@ -1,4 +1,4 @@
-# Final-Course-Project-Excel
+# Final-Course-Project-Database Querying Using SQLite
 Final project for course 
 Introduction
 Using this Python notebook you will:
